@@ -18,7 +18,7 @@ There are eight subjects in the curriculum, organized into four subject areas. S
 
 Later subject build upon content from earlier subjects, to the recommended approach is to progrss through the eight subjects in the order provided. That said, you're welcome to pick and choose individual subjects based on your interest are fairly independent so could be approached separately.
 
-# Where and When
+## Where and When
 
 The eight ML Foundations subjects were initially offered by Jon Krohn as live online trainings in the O'Reilly learning platform from May-Sep 2020 (and were offered a second time from Jul-Dec 2021; see here for individual lecture dates).
 
